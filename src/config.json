@@ -1,7 +1,10 @@
 {
-    "clientID": "",
-    "baseUrl": "",
+    "baseUrl": "https://api.asgardeo.io/t/sinhalao",
+    "clientID": "pzGwm7Yau5VGxMMCOCZgBtwK9dAa",
+    "scope": [
+        "openid",
+        "profile"
+    ],
     "signInRedirectURL": "https://localhost:3000",
-    "signOutRedirectURL": "https://localhost:3000",
-    "scope": ["profile"]
+    "signOutRedirectURL": "https://localhost:3000"
 }
